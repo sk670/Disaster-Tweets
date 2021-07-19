@@ -8,8 +8,8 @@
  
 | Code quality | Badge  |
 | :------------ |:---------------:|
-| grade     | some wordy text |
-| score      | centered        |  
+| grade     | ![quality grade ](https://www.code-inspector.com/project/25426/status/svg)|
+
 
  ## Problems solved
 
